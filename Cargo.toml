@@ -7,7 +7,7 @@ repository = "https://github.com/Hellager/wincent"
 documentation = "https://docs.rs/wincent/"
 readme = "README.md"
 license = "MIT"
-keywords = ["windows", "recent", "quick access"]
+keywords = ["windows", "recent"]
 categories = ["command-line-utilities"]
 description = """
 A library for handling windows quick access
